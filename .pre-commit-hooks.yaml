@@ -1,0 +1,6 @@
+-   id: nbstripout-fast
+    name: nbstripout-fast
+    description: 'nbstripout: strip output from Jupyter and IPython notebooks'
+    entry: nbstripout-fast
+    language: python
+    types: [jupyter]
